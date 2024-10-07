@@ -1,0 +1,5 @@
+IAC/terraform.tfstate
+IAC/output.plan
+.terraform/*
+.terraform*
+.DS_Store
